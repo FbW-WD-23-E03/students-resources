@@ -1,7 +1,6 @@
-# Setting graph command inside the Terminal
+# Hey everyone!
 
-To set-up the graph command in the Terminal we have to type:
+In this folder I'll be putting some usefull stuff.   
+Fell free to visit it every now and then.
 
-```text
-alias graph='git log --all --decorate --oneline --graph'
-```
+:computer: :desktop_computer:
