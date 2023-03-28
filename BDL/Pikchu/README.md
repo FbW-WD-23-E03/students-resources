@@ -1,2 +1,2 @@
--BDL
+-BDL-Pikchu
 Studeent resources
