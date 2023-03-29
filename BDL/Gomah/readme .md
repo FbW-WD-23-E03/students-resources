@@ -1,2 +1,2 @@
 # GOMAH .BDL
-# STU RESOR
+# students-resources
