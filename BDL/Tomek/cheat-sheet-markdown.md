@@ -1,6 +1,6 @@
 <!-- BASIC MARKDOWNS -->
 
-<a name="this_is_anchor">Top of the page</a>
+
 <!-- Headings -->
 
 # Heading 1
@@ -164,7 +164,8 @@ if (number > 0) {
 
 :thumbsup:
 
-<a href="this_is_anchor">Take me back to the top of the page.</a>
+<!-- Anchor Link -->
+[Take me to the top of the page](#heading-1)
 
 
 
