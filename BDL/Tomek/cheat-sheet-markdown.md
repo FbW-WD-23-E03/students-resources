@@ -163,8 +163,7 @@ if (number > 0) {
 :metal:
 
 :thumbsup:
- <!-- Anchor link -->
-[take me back to the top of the page](#Heading 1)
+
 
 
 
