@@ -165,7 +165,7 @@ if (number > 0) {
 :thumbsup:
 
 <!-- Anchor Link -->
-[Take me to the top of the page](#heading-1)
+[Take me to the top of the page](#markdown-cheat-sheet)
 
 
 
