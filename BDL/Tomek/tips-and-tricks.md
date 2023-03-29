@@ -1,4 +1,4 @@
-# Setting graph command inside the Terminal
+# Setting graph command in the Terminal
 
 To set-up the graph command in the Terminal we have to type:
 
